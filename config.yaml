@@ -9,7 +9,7 @@ theme: hugo-refresh
 #########################################
 # This options specify where to look for the images used in this config
 # The default value is the "asset" directory of this theme
-# assetDir: "static"
+assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
@@ -108,9 +108,9 @@ params:
     # option to specify the title in the homepage
     title: Samuel Shimels
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Data Analysis & Spreadsheet Automation
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/upwork_profile_picture.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -125,7 +125,7 @@ params:
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: your_linkedin_profile
+      link: https://www.linkedin.com/in/samuel-s-a298a9174?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw2anltLaSWq37nSsPZvqUg%3D%3D
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -158,7 +158,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2021
+    copyright: Samuel Shimels - 2022
 
 ###################################################################
 ################## multilanguage support options ##################

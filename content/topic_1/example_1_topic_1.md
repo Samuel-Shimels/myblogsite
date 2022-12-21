@@ -1,11 +1,8 @@
 ---
-title: "Topic 1 is very cool (again)!"
-date: 2019-06-17T23:53:00+01:00
-draft: true
+title: "Bellabeat Case Study with R"
+date: 2022-06-17T23:53:00+01:00
 hideLastModified: true
-summary: "This summary \
-is \
-multiline"
+summary: "Smart Fitness devices usage trend analysis using R. The result from the case used in marketing strategy of their products"
 tags: ["custom_summary", "code"]
 ---
 
